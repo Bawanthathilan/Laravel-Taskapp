@@ -1,5 +1,5 @@
 # Welcome to TaskApp 👋
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bawantharathnayakasliit?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/bawantharathnayakasliit.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/bawantharathnayakasliit?tab=followers)
 
 
 # ui's
