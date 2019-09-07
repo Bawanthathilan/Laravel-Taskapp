@@ -7,6 +7,9 @@
 ![image](https://drive.google.com/uc?export=view&id=1RppOfWpg_R01VXznEb6wn74U1O-cIujs)
 ![image](https://drive.google.com/uc?export=view&id=1nDdWCz92amkEKc5LV5WAXgcQiHBAwF06)
 
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 # Using Framework - 
     Laravel
